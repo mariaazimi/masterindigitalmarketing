@@ -1,5 +1,5 @@
 <div class="markdown markdown-main-panel" dir="ltr">
-<h2 class="" data-sourcepos="1:1-1:13">Hi there!</h2>
+<h2 class="" data-sourcepos="1:1-1:13">Hi there 👋!</h2>
 <p data-sourcepos="3:1-3:144">I'm Gianna Eleanor, a digital marketing and web design enthusiast. This repository is a collection of my projects and code snippets, showcasing my skills and passion for creating engaging web experiences.</p>
 <p data-sourcepos="5:1-5:26"><strong>What you'll find here:</strong></p>
 <ul data-sourcepos="7:1-7:77">
